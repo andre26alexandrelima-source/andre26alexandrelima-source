@@ -25,3 +25,10 @@
 </div>
 
 ###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andre26alexandrelima-source/andre26alexandrelima-source/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andre26alexandrelima-source/andre26alexandrelima-source/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/andre26alexandrelima-source/andre26alexandrelima-source/output/pacman-contribution-graph.svg">
+</picture>
+
+###
